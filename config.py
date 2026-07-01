@@ -1,0 +1,18 @@
+URSIM_IP = "192.168.56.101"
+
+CONTROL_FREQUENCY = 125
+DT = 1.0 / CONTROL_FREQUENCY
+
+SIMULATION_TIME = 45.0
+
+DAMPING = 0.03
+MAX_JOINT_SPEED = 0.8
+
+DESIRED_CARTESIAN_VELOCITY = [
+    0.03,   # vx
+    0.00,   # vy
+    0.00,   # vz
+    0.00,   # wx
+    0.00,   # wy
+    0.00    # wz
+]
