@@ -1,0 +1,7 @@
+TS1 - Engenharia de Controle e Segurança via Jacobiano no UR10
+
+Autores:
+	-Gustavo Moro;
+	-Pedro Augusto Dantas Vargas.
+
+Youtube: https://youtu.be/EP0Ber7vIyU
